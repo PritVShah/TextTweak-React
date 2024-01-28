@@ -1,5 +1,5 @@
 // import logo from './logo.svg';
-// import './App.css';
+
 import React, { useState } from 'react'
 import Navbar from './Components/Navbar';
 import Form from './Components/Form';
